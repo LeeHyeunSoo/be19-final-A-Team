@@ -58,7 +58,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/golealda" target="_blank">
+        <a href="https://github.com/LeeHyeunSoo" target="_blank">
           <img src="https://github.com/Ace-Time/be19-final-A-Team/blob/main/img/%EA%B0%9C%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%9D%B4%ED%98%84%EC%88%98.png" width="210" style="border-radius:100%" alt="이현수"/><br/>
           <b>이현수</b>
         </a>
